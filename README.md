@@ -151,9 +151,6 @@ Hinton通过这场演讲表达了对现有神经网络的不满，提出了胶�
 - **挑战**:
   - 高维路由过程本身可能成为攻击目标，需研究胶囊网络的认证鲁棒性（Certified Robustness）。
 
-> "The real breakthrough will come when we can make the routing as efficient as backprop, but without its biological implausibility."  
-> — Hinton展望胶囊网络的未来
-
 > "The brain doesn't do backprop. It must have another way to solve this computation."  
 > — Geoffrey Hinton
 
