@@ -62,6 +62,7 @@ Hinton通过这场演讲表达了对现有神经网络的不满，提出了胶�
 - **时间**: 2014年于MIT
 - **主讲人**: Geoffrey Hinton (SPEAKER_01)
 - **核心主题**: 批判传统卷积神经网络（ConvNets）的局限性，提出“胶囊网络”（Capsule Networks）的架构设计。
+- **视频链接**：[链接文本](https://techtv.mit.edu/collections/bcs/videos/30698-what-s-wrong-with-convolutional-nets)
 
 ---
 
